@@ -1,2 +1,2 @@
 # windows_app
-gateio windows browser
+Gate windows browser
